@@ -1,4 +1,6 @@
 # code-toolkit
+[![CI](https://github.com/wzx11223344/code-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/wzx11223344/code-toolkit/actions/workflows/ci.yml)
+
 
 开发编程工具箱 - 10个高级算法驱动的开发者工具集
 
